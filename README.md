@@ -2,4 +2,4 @@
 
 A soft dark syntax theme.
 
-![A screenshot of your theme](https://github.com/Voronar/ceratrior-syntax/blob/master/screen1.png)
+![A screenshot of your theme](https://raw.githubusercontent.com/Voronar/ceratrior-syntax/master/screen1.png)
